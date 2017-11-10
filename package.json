@@ -1,6 +1,6 @@
 {
   "name": "@jdists/glob",
-  "version": "0.0.21",
+  "version": "0.0.1",
   "description": "glob as jdists processor",
   "main": "lib/index",
   "typings": "lib/index.d.ts",
