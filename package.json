@@ -1,6 +1,6 @@
 {
   "name": "@jdists/glob",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "glob as jdists processor",
   "main": "lib/index",
   "typings": "lib/index.d.ts",
@@ -33,6 +33,7 @@
   "homepage": "https://github.com/jdists/glob#readme",
   "dependencies": {
     "glob": "^7.1.2",
+    "jdists-util": "^0.0.8",
     "js-yaml": "^3.10.0"
   },
   "devDependencies": {
@@ -44,7 +45,6 @@
     "gulp-rename": "^1.2.2",
     "gulp-typescript": "^3.1.6",
     "istanbul": "^0.3.17",
-    "jdists-util": "^0.0.8",
     "merge2": "^1.1.0",
     "mocha": "^2.0.1",
     "should": "^4.1.0",

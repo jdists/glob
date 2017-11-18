@@ -8,6 +8,20 @@ glob as jdists processor
 
 * @see [glob](https://github.com/isaacs/node-glob)
 
+## Example
+
+```html
+<!--jdists encoding="glob"-->
+*.js
+!gulpfile.js
+<!--/jdists-->
+
+<!--glob-->
+*.js
+!gulpfile.js
+<!--/glob-->
+```
+
 ## License
 
 MIT © [zswang](http://weibo.com/zswang)
